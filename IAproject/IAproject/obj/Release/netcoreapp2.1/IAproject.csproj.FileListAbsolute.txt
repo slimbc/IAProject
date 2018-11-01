@@ -1,0 +1,11 @@
+C:\Users\sloum\source\repos\IAproject\IAproject\bin\Release\netcoreapp2.1\IAproject.deps.json
+C:\Users\sloum\source\repos\IAproject\IAproject\bin\Release\netcoreapp2.1\IAproject.runtimeconfig.json
+C:\Users\sloum\source\repos\IAproject\IAproject\bin\Release\netcoreapp2.1\IAproject.runtimeconfig.dev.json
+C:\Users\sloum\source\repos\IAproject\IAproject\bin\Release\netcoreapp2.1\IAproject.dll
+C:\Users\sloum\source\repos\IAproject\IAproject\bin\Release\netcoreapp2.1\IAproject.pdb
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.csprojAssemblyReference.cache
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.csproj.CoreCompileInputs.cache
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.AssemblyInfoInputs.cache
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.AssemblyInfo.cs
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.dll
+C:\Users\sloum\source\repos\IAproject\IAproject\obj\Release\netcoreapp2.1\IAproject.pdb
